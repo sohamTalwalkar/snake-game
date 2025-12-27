@@ -18,5 +18,4 @@ This is a snake game, where the snake eats food to grow its size and this increa
 - Open SnakeGame.html in a browser
 - Click start and use arrow keys to move the snake
 
-#Game UI
 ![Snake Game UI](screenshots/SnakeGameUI.png)
